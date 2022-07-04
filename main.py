@@ -1,7 +1,4 @@
-#20i-0889
-#19i-1777
-#19i-1789
-#20i-1865
+
 
 import requests
 import nltk
